@@ -22,11 +22,11 @@ const Work = () => {
             <div className='group relative overflow-hidden border-2 border-white/50 rounded-xl'>
               <div className='group-hover:bg-black/70 w-full h-full absolute z-40 transition-all duration-300'></div>
               <img className='group-hover:scale-125 transition-all duration-500' src={Img1} alt='first project'/>
-              <div className='absolute -bottom-full left-12 group-hover:bottom-24 xs:group-hover:bottom-1 transition-all duration-500 z-50'>
+              <div className='absolute -bottom-full left-12 xs:group-hover:bottom-1 sm:group-hover:bottom-24 transition-all duration-500 z-50'>
                 <span className='text-gradient cursor-pointer'><a href='https://aiga.vercel.app/'>AIGA</a></span>
               </div>
               <div className='absolute -bottom-full left-12 group-hover:bottom-10 lg:group-hover:bottom-1 xl:group-hover:bottom-10 transition-all duration-700 z-50'>
-                <span className='xs:text-sm text-xl font-bold text-white'>An image generator powered by Dall-e AI, with a community hub where you can share your creations.</span>
+                <span className='xs:text-sm sm:text-xl font-bold text-white'>An image generator powered by Dall-e AI, with a community hub where you can share your creations.</span>
               </div>
             </div>
           </motion.div>
@@ -34,21 +34,21 @@ const Work = () => {
             <div className='group relative overflow-hidden border-2 border-white/50 rounded-xl'>
               <div className='group-hover:bg-black/70 w-full h-full absolute z-40 transition-all duration-300'></div>
               <img className='group-hover:scale-125 transition-all duration-500' src={Img2} alt='second project'/>
-              <div className='absolute -bottom-full left-12 group-hover:bottom-24 xs:group-hover:bottom-1 transition-all duration-500 z-50'>
+              <div className='absolute -bottom-full left-12 xs:group-hover:bottom-1 sm:group-hover:bottom-24 transition-all duration-500 z-50'>
                 <span className='text-gradient cursor-pointer'><a href='https://cameramark.netlify.app/'>CameraMark</a></span>
               </div>
               <div className='absolute -bottom-full left-12 group-hover:bottom-10 transition-all duration-700 z-50'>
-                <span className='xs:text-sm text-xl font-bold text-white'>A full-stack E-commerce app where you can get the camera that your looking for.</span>
+                <span className='xs:text-sm sm:text-xl font-bold text-white'>A full-stack E-commerce app where you can get the camera that your looking for.</span>
               </div>
             </div>
             <div className='group relative overflow-hidden border-2 border-white/50 rounded-xl'>
               <div className='group-hover:bg-black/70 w-full h-full absolute z-40 transition-all duration-300'></div>
               <img className='group-hover:scale-125 transition-all duration-500' src={Img3} alt='third project'/>
-              <div className='absolute -bottom-full left-12 group-hover:bottom-24 xs:group-hover:bottom-1 transition-all duration-500 z-50'>
+              <div className='absolute -bottom-full left-12 xs:group-hover:bottom-1 sm:group-hover:bottom-24 transition-all duration-500 z-50'>
                 <span className='text-gradient cursor-pointer'><a href='https://psca-shea.netlify.app/'>PSCA</a></span>
               </div>
               <div className='absolute -bottom-full left-12 group-hover:bottom-10 lg:group-hover:bottom-1 transition-all duration-700 z-50'>
-                <span className='xs:text-sm text-xl font-bold text-white'>A web app where you can personalize a 3D shirt model with your own texture and logo, and even promp an AI to generate it for you.</span>
+                <span className='xs:text-sm sm:text-xl font-bold text-white'>A web app where you can personalize a 3D shirt model with your own texture and logo, and even promp an AI to generate it for you.</span>
               </div>
             </div>
           </motion.div>
