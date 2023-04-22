@@ -48,7 +48,7 @@ const Work = () => {
                 <span className='text-gradient cursor-pointer'><a href='https://psca-shea.netlify.app/'>PSCA</a></span>
               </div>
               <div className='absolute -bottom-full left-12 group-hover:bottom-10 lg:group-hover:bottom-1 transition-all duration-700 z-50'>
-                <span className='xs:text-sm sm:text-xl font-bold text-white'>A web app where you can personalize a 3D shirt model with your own texture and logo, and even promp an AI to generate it for you.</span>
+                <span className='xs:text-sm sm:text-xl font-bold text-white'>A web app where you can personalize a 3D shirt model with your own texture and logo, and even prompt an AI to generate it for you.</span>
               </div>
             </div>
           </motion.div>
