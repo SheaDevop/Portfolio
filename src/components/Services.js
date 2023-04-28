@@ -10,11 +10,11 @@ const services = [
   },
   {
     name: 'Front-end Development',
-    description: 'Coding responsive web applications is where i feel more comfortable, using React and Tailwind, i get to develop and deliver web apps pretty fast'
+    description: 'Coding responsive web applications is where i feel more comfortable, using React and Tailwind, i get to develop and deliver web apps pretty fast.'
   },
   {
     name: 'API Development',
-    description: "I don't have much experience coding and delivering apis, but im getting use to the process, since I've recently deployed a few"
+    description: "I don't have much experience coding and delivering apis, but im getting used to the process, since I've recently deployed a few."
   },
 ];
 
