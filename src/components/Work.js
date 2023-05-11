@@ -16,7 +16,8 @@ const Work = () => {
                 My Latest <br/>
                 Work.
               </h2>
-              <p className='max-w-sm mb-16'>Here you can check some of my latests projects</p>
+              <p className='max-w-sm mb-2'>Here you can check some of my latests projects.</p>
+              <p className='max-w-sm mb-12 text-sm font-light'>Some others are: <a className='text-accent font-bold cursor-pointer hover:text-white' href='https://aiga.vercel.app/'>AIGA</a> and <a className='text-accent font-bold cursor-pointer hover:text-white' href='https://summary-maker.netlify.app/'>SummaryMk</a>.</p>
               <button className='btn btn-sm'><a href='https://github.com/SheaDevop'>View all projects</a></button>
             </div>
             <div className='group relative overflow-hidden border-2 border-white/50 rounded-xl'>
