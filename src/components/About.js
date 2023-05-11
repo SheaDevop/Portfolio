@@ -32,7 +32,7 @@ const About = () => {
                 </div>
                 <div className='font-primary text-sm tracking-[2px]'>
                   Years of <br/>
-                  Learning experience
+                  Coding experience
                 </div>
               </div>
             </div>
